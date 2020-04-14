@@ -3,7 +3,7 @@ def unsafe?(speed)
     true
   else
     false
-  end  
+  end
 end
 
 
@@ -11,6 +11,3 @@ end
 def not_safe?(speed)
 end
 end
-	
-
-
